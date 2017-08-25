@@ -2,7 +2,7 @@
 
 A simple side scrolling game where you control a dinosaur that moves up when you click the space bar. There will be obstacles moving to the left that you must avoid. If you have a collision with one, the game will end.
 
-Technology used is Jquery CSS and HTML. I incorporated collision detection via the pythagorean theorem. I implemented a garbage collection function so that there are not an excessive amount of divs at the end of the game. Lastly, I used a sprite sheet and css animations to make my images come to life.
+Technology used is Jquery CSS and HTML. I incorporated collision detection via the pythagorean theorem. I implemented a garbage collection function so that there is not an excessive amount of divs at the end of the game. Lastly, I used a sprite sheet and css animations to make my images come to life.
 
 My approach was to first just get an element to be able to jump over another. Then I wanted to make sure that if they touch, I would be alerted. Lastly, I wanted the obstacles to be randomized so that you cannot predict the timing of them.
 
